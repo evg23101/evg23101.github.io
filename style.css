@@ -290,6 +290,7 @@ li a:hover {
 .product a {
     display: block;
     width: 100%;
+    height: 235px;
 }
 
 .product a:hover {
@@ -298,7 +299,7 @@ li a:hover {
 
 .product_photo {
     background-color: #eaeaea;
-    width: 100%;
+    width: 250px;
     height: 235px;
 }
 .triangle_new {
@@ -614,7 +615,7 @@ li a:hover {
 }
 
 .text_instagram1 {
-    font-family: 'Roboto', 'Arial' sans-serif;;
+    font-family: 'Roboto', 'Arial', sans-serif;;
     color: #333333;
     font-size: 22px;
     font-weight: 900;
